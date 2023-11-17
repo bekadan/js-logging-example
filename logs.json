@@ -1,0 +1,14 @@
+[
+  {
+    "method": "POST",
+    "uri": "/post-req",
+    "statusCode": 200,
+    "statusMessage": "OK"
+  },
+  {
+    "method": "POST",
+    "uri": "/post-req",
+    "statusCode": 200,
+    "statusMessage": "OK"
+  }
+]
